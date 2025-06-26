@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints (optional if using notebooks)
+.ipynb_checkpoints/
+
+# VSCode configs (optional)
+.vscode/
+
+# Logs
+*.log
+
+# Secrets (if you have any key files)
+*.env
+
+# OS junk
+Thumbs.db
